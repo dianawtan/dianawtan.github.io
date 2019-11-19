@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maryam Boutrus | Dr. Diana Tan</title>
-    <link>/authors/maryam-boutrus/</link>
-      <atom:link href="/authors/maryam-boutrus/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dianawtan.github.io/authors/maryam-boutrus/</link>
+      <atom:link href="https://dianawtan.github.io/authors/maryam-boutrus/index.xml" rel="self" type="application/rss+xml" />
     <description>Maryam Boutrus</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2019</copyright><lastBuildDate>Sat, 22 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://dianawtan.github.io/img/icon-192.png</url>
       <title>Maryam Boutrus</title>
-      <link>/authors/maryam-boutrus/</link>
+      <link>https://dianawtan.github.io/authors/maryam-boutrus/</link>
     </image>
     
     <item>
       <title>Increased facial asymmetry in autism spectrum conditions is associated with symptom presentation</title>
-      <link>/publication/07-boutrus-2019-aur/</link>
+      <link>https://dianawtan.github.io/publication/07-boutrus-2019-aur/</link>
       <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/07-boutrus-2019-aur/</guid>
+      <guid>https://dianawtan.github.io/publication/07-boutrus-2019-aur/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Investigating facial phenotype in autism spectrum conditions: The importance of a hypothesis driven approach</title>
-      <link>/publication/05-boutrus-2017-aur/</link>
+      <link>https://dianawtan.github.io/publication/05-boutrus-2017-aur/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/05-boutrus-2017-aur/</guid>
+      <guid>https://dianawtan.github.io/publication/05-boutrus-2017-aur/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

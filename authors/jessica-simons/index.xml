@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jessica Simons | Dr. Diana Tan</title>
-    <link>/authors/jessica-simons/</link>
-      <atom:link href="/authors/jessica-simons/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dianawtan.github.io/authors/jessica-simons/</link>
+      <atom:link href="https://dianawtan.github.io/authors/jessica-simons/index.xml" rel="self" type="application/rss+xml" />
     <description>Jessica Simons</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2019</copyright><lastBuildDate>Fri, 17 Jul 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://dianawtan.github.io/img/icon-192.png</url>
       <title>Jessica Simons</title>
-      <link>/authors/jessica-simons/</link>
+      <link>https://dianawtan.github.io/authors/jessica-simons/</link>
     </image>
     
     <item>
       <title>Perceived Gender Ratings for High and Low Scorers on the Autism-Spectrum Quotient Consistent with the Extreme Male Brain Account of Autism</title>
-      <link>/publication/01-tan-2015-plos/</link>
+      <link>https://dianawtan.github.io/publication/01-tan-2015-plos/</link>
       <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/01-tan-2015-plos/</guid>
+      <guid>https://dianawtan.github.io/publication/01-tan-2015-plos/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
