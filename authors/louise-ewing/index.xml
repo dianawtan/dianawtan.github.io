@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Louise Ewing | Dr. Diana Tan</title>
+    <link>/authors/louise-ewing/</link>
+      <atom:link href="/authors/louise-ewing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Louise Ewing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Louise Ewing</title>
+      <link>/authors/louise-ewing/</link>
+    </image>
+    
+    <item>
+      <title>Sex-specific variation in facial masculinity/femininity associated with autistic traits in the general population</title>
+      <link>/publication/09-tan-2020-bjp/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/09-tan-2020-bjp/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    #Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+#
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

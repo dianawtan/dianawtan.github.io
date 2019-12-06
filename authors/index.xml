@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2019</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,10 +15,50 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Diana Tan is a postdoctoral researcher in psychology at the University of Western Australia (UWA) and Telethon Kids Institute. In 2012, she uprooted from Singapore to Perth, Western Australia to pursue her Honours and PhD degrees in UWA. Her research aims to understand biological mechanisms underlying the development of autism spectrum disorder (ASD) and to identify early markers that contribute to the developmental cascade leading to a diagnosis of ASD. She is also passionate about doing and sharing good science!&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Andrew Whitehouse</title>
+      <link>/authors/andrew-whitehouse/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/andrew-whitehouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jia-Xin Tay</title>
+      <link>/authors/jia-xin-tay/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jia-xin-tay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Louise Ewing</title>
+      <link>/authors/louise-ewing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/louise-ewing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Murray Maybery</title>
+      <link>/authors/murray-maybery/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/murray-maybery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Eastwood</title>
+      <link>/authors/peter-eastwood/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/peter-eastwood/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -26,14 +66,6 @@
       <link>/authors/amy-finlay-jones/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/authors/amy-finlay-jones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Andrew Whitehouse</title>
-      <link>/authors/andrew-whitehouse/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/andrew-whitehouse/</guid>
       <description></description>
     </item>
     
@@ -118,14 +150,6 @@
     </item>
     
     <item>
-      <title>Murray Maybery</title>
-      <link>/authors/murray-maybery/</link>
-      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/murray-maybery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Syed Zulqarnain Gilani</title>
       <link>/authors/syed-zulqarnain-gilani/</link>
       <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
@@ -202,14 +226,6 @@
       <link>/authors/mithran-goonewardene/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       <guid>/authors/mithran-goonewardene/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peter Eastwood</title>
-      <link>/authors/peter-eastwood/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/peter-eastwood/</guid>
       <description></description>
     </item>
     
