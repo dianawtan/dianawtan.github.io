@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael Clarke | Dr. Diana Tan</title>
-    <link>https://dianawtan.github.io/authors/michael-clarke/</link>
-      <atom:link href="https://dianawtan.github.io/authors/michael-clarke/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/michael-clarke/</link>
+      <atom:link href="/authors/michael-clarke/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Clarke</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2019</copyright><lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dianawtan.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Michael Clarke</title>
-      <link>https://dianawtan.github.io/authors/michael-clarke/</link>
+      <link>/authors/michael-clarke/</link>
     </image>
     
     <item>
       <title>No relationship between autistic traits and salivary testosterone concentrations in men from the general population</title>
-      <link>https://dianawtan.github.io/publication/06-tan-2018-plos/</link>
+      <link>/publication/06-tan-2018-plos/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://dianawtan.github.io/publication/06-tan-2018-plos/</guid>
+      <guid>/publication/06-tan-2018-plos/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

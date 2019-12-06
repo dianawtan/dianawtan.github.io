@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Faisal Shafait | Dr. Diana Tan</title>
-    <link>https://dianawtan.github.io/authors/faisal-shafait/</link>
-      <atom:link href="https://dianawtan.github.io/authors/faisal-shafait/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/faisal-shafait/</link>
+      <atom:link href="/authors/faisal-shafait/index.xml" rel="self" type="application/rss+xml" />
     <description>Faisal Shafait</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2019</copyright><lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dianawtan.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Faisal Shafait</title>
-      <link>https://dianawtan.github.io/authors/faisal-shafait/</link>
+      <link>/authors/faisal-shafait/</link>
     </image>
     
     <item>
       <title>Sexually dimorphic facial features vary according to level of autistic-like traits in the general population</title>
-      <link>https://dianawtan.github.io/publication/02-gilani-2015-jnd/</link>
+      <link>/publication/02-gilani-2015-jnd/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://dianawtan.github.io/publication/02-gilani-2015-jnd/</guid>
+      <guid>/publication/02-gilani-2015-jnd/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Prenatal testosterone exposure is related to sexually dimorphic facial morphology in adulthood</title>
-      <link>https://dianawtan.github.io/publication/03-whitehouse-2015-procb/</link>
+      <link>/publication/03-whitehouse-2015-procb/</link>
       <pubDate>Sat, 17 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://dianawtan.github.io/publication/03-whitehouse-2015-procb/</guid>
+      <guid>/publication/03-whitehouse-2015-procb/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

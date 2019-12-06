@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Melissa Licari | Dr. Diana Tan</title>
-    <link>https://dianawtan.github.io/authors/melissa-licari/</link>
-      <atom:link href="https://dianawtan.github.io/authors/melissa-licari/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/melissa-licari/</link>
+      <atom:link href="/authors/melissa-licari/index.xml" rel="self" type="application/rss+xml" />
     <description>Melissa Licari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2019</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dianawtan.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Melissa Licari</title>
-      <link>https://dianawtan.github.io/authors/melissa-licari/</link>
+      <link>/authors/melissa-licari/</link>
     </image>
     
     <item>
       <title>A preliminary investigation of the effects of prenatal alcohol exposure on facial morphology in children with Autism Spectrum Disorder</title>
-      <link>https://dianawtan.github.io/publication/08-tan-preprint/</link>
+      <link>/publication/08-tan-preprint/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://dianawtan.github.io/publication/08-tan-preprint/</guid>
+      <guid>/publication/08-tan-preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

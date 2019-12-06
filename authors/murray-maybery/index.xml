@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Murray Maybery | Dr. Diana Tan</title>
-    <link>https://dianawtan.github.io/authors/murray-maybery/</link>
-      <atom:link href="https://dianawtan.github.io/authors/murray-maybery/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/murray-maybery/</link>
+      <atom:link href="/authors/murray-maybery/index.xml" rel="self" type="application/rss+xml" />
     <description>Murray Maybery</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2019</copyright><lastBuildDate>Sat, 22 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dianawtan.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Murray Maybery</title>
-      <link>https://dianawtan.github.io/authors/murray-maybery/</link>
+      <link>/authors/murray-maybery/</link>
     </image>
     
     <item>
       <title>Increased facial asymmetry in autism spectrum conditions is associated with symptom presentation</title>
-      <link>https://dianawtan.github.io/publication/07-boutrus-2019-aur/</link>
+      <link>/publication/07-boutrus-2019-aur/</link>
       <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://dianawtan.github.io/publication/07-boutrus-2019-aur/</guid>
+      <guid>/publication/07-boutrus-2019-aur/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Hypermasculinised facial morphology in boys and girls with Autism Spectrum Disorder and its association with symptomatology</title>
-      <link>https://dianawtan.github.io/publication/04-tan-2017-srep/</link>
+      <link>/publication/04-tan-2017-srep/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://dianawtan.github.io/publication/04-tan-2017-srep/</guid>
+      <guid>/publication/04-tan-2017-srep/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -54,9 +54,9 @@
     
     <item>
       <title>Investigating facial phenotype in autism spectrum conditions: The importance of a hypothesis driven approach</title>
-      <link>https://dianawtan.github.io/publication/05-boutrus-2017-aur/</link>
+      <link>/publication/05-boutrus-2017-aur/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://dianawtan.github.io/publication/05-boutrus-2017-aur/</guid>
+      <guid>/publication/05-boutrus-2017-aur/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -74,9 +74,9 @@
     
     <item>
       <title>No relationship between autistic traits and salivary testosterone concentrations in men from the general population</title>
-      <link>https://dianawtan.github.io/publication/06-tan-2018-plos/</link>
+      <link>/publication/06-tan-2018-plos/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://dianawtan.github.io/publication/06-tan-2018-plos/</guid>
+      <guid>/publication/06-tan-2018-plos/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -94,9 +94,9 @@
     
     <item>
       <title>Sexually dimorphic facial features vary according to level of autistic-like traits in the general population</title>
-      <link>https://dianawtan.github.io/publication/02-gilani-2015-jnd/</link>
+      <link>/publication/02-gilani-2015-jnd/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://dianawtan.github.io/publication/02-gilani-2015-jnd/</guid>
+      <guid>/publication/02-gilani-2015-jnd/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -114,9 +114,9 @@
     
     <item>
       <title>Prenatal testosterone exposure is related to sexually dimorphic facial morphology in adulthood</title>
-      <link>https://dianawtan.github.io/publication/03-whitehouse-2015-procb/</link>
+      <link>/publication/03-whitehouse-2015-procb/</link>
       <pubDate>Sat, 17 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://dianawtan.github.io/publication/03-whitehouse-2015-procb/</guid>
+      <guid>/publication/03-whitehouse-2015-procb/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -134,9 +134,9 @@
     
     <item>
       <title>Perceived Gender Ratings for High and Low Scorers on the Autism-Spectrum Quotient Consistent with the Extreme Male Brain Account of Autism</title>
-      <link>https://dianawtan.github.io/publication/01-tan-2015-plos/</link>
+      <link>/publication/01-tan-2015-plos/</link>
       <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://dianawtan.github.io/publication/01-tan-2015-plos/</guid>
+      <guid>/publication/01-tan-2015-plos/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
