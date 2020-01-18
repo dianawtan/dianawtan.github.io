@@ -5,12 +5,21 @@
     <link>/authors/murray-maybery/</link>
       <atom:link href="/authors/murray-maybery/index.xml" rel="self" type="application/rss+xml" />
     <description>Murray Maybery</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2020</copyright><lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Murray Maybery</title>
       <link>/authors/murray-maybery/</link>
     </image>
+    
+    <item>
+      <title>A broad autism phenotype expressed in facial morphology</title>
+      <link>/publication/10-tan-2020-tp/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/10-tan-2020-tp/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sex-specific variation in facial masculinity/femininity associated with autistic traits in the general population</title>
@@ -74,15 +83,6 @@
       <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
       <guid>/publication/01-tan-2015-plos/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>A broad autism phenotype expressed in facial morphology</title>
-      <link>/publication/10-tan-2020-tp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/10-tan-2020-tp/</guid>
-      <description>&lt;p&gt;==&lt;/p&gt;
-</description>
     </item>
     
   </channel>

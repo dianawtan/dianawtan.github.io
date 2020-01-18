@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2020</copyright><lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,17 +15,57 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Diana Tan is a postdoctoral researcher in psychology at the University of Western Australia (UWA) and Telethon Kids Institute. In 2012, she uprooted from Singapore to Perth, Western Australia to pursue her Honours and PhD degrees in UWA. Her research aims to understand biological mechanisms underlying the development of autism spectrum disorder (ASD) and to identify early markers that contribute to the developmental cascade leading to a diagnosis of ASD. She is also passionate about doing and sharing good science!&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Ajmal Mian</title>
+      <link>/authors/ajmal-mian/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ajmal-mian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Andrew Whitehouse</title>
       <link>/authors/andrew-whitehouse/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/andrew-whitehouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Suter</title>
+      <link>/authors/david-suter/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/david-suter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gail Alvares</title>
+      <link>/authors/gail-alvares/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/gail-alvares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Murray Maybery</title>
+      <link>/authors/murray-maybery/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/murray-maybery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syed Zulqarnain Gilano</title>
+      <link>/authors/syed-zulqarnain-gilano/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/syed-zulqarnain-gilano/</guid>
       <description></description>
     </item>
     
@@ -46,14 +86,6 @@
     </item>
     
     <item>
-      <title>Murray Maybery</title>
-      <link>/authors/murray-maybery/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/murray-maybery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Peter Eastwood</title>
       <link>/authors/peter-eastwood/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -66,14 +98,6 @@
       <link>/authors/amy-finlay-jones/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/authors/amy-finlay-jones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gail Alvares</title>
-      <link>/authors/gail-alvares/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/gail-alvares/</guid>
       <description></description>
     </item>
     
@@ -130,14 +154,6 @@
       <link>/authors/yong-zhi-foo/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/authors/yong-zhi-foo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ajmal Mian</title>
-      <link>/authors/ajmal-mian/</link>
-      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/ajmal-mian/</guid>
       <description></description>
     </item>
     
@@ -290,22 +306,6 @@
       <link>/authors/jessica-simons/</link>
       <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
       <guid>/authors/jessica-simons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Suter</title>
-      <link>/authors/david-suter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/david-suter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Syed Zulqarnain Gilano</title>
-      <link>/authors/syed-zulqarnain-gilano/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/syed-zulqarnain-gilano/</guid>
       <description></description>
     </item>
     
