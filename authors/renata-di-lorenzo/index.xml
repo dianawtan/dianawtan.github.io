@@ -5,7 +5,7 @@
     <link>/authors/renata-di-lorenzo/</link>
       <atom:link href="/authors/renata-di-lorenzo/index.xml" rel="self" type="application/rss+xml" />
     <description>Renata Di Lorenzo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2019</copyright><lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2020</copyright><lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Renata Di Lorenzo</title>
@@ -17,19 +17,7 @@
       <link>/publication/06-tan-2018-plos/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       <guid>/publication/06-tan-2018-plos/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    #Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-#
-  &lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
