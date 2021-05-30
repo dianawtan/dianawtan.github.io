@@ -5,7 +5,7 @@
     <link>/tags/source-themes/</link>
       <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2021</copyright><lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2021</copyright><lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Source Themes</title>
@@ -13,10 +13,28 @@
     </image>
     
     <item>
+      <title>Validation of a Novel Theory of Mind Measurement Tool: The Social Robot Video Task</title>
+      <link>/publication/15-oreilly-2021-hri/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/15-oreilly-2021-hri/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Investigating associations between birth order and autism diagnostic phenotypes</title>
       <link>/publication/12-alvares-2020-jcpp/</link>
       <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/publication/12-alvares-2020-jcpp/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Increased facial asymmetry in autism spectrum conditions is associated with symptom presentation</title>
+      <link>/publication/11-boutrus-2020-jadd/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/11-boutrus-2020-jadd/</guid>
       <description>&lt;p&gt;==&lt;/p&gt;
 </description>
     </item>
@@ -110,33 +128,6 @@
       <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
       <guid>/publication/01-tan-2015-plos/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Animation, Theory of Mind and Humanoid Robots: Creating a Social Robot Video Task</title>
-      <link>/publication/14-oreilly-2020-leonardo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/14-oreilly-2020-leonardo/</guid>
-      <description>&lt;p&gt;==&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Increased facial asymmetry in autism spectrum conditions is associated with symptom presentation</title>
-      <link>/publication/11-boutrus-2020-jadd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/11-boutrus-2020-jadd/</guid>
-      <description>&lt;p&gt;==&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Validation of a Novel Theory of Mind Measurement Tool: The Social Robot Video Task</title>
-      <link>/publication/15-oreilly-2021-hri/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/15-oreilly-2021-hri/</guid>
-      <description>&lt;p&gt;==&lt;/p&gt;
-</description>
     </item>
     
   </channel>
