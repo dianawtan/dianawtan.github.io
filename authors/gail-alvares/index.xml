@@ -5,7 +5,7 @@
     <link>/authors/gail-alvares/</link>
       <atom:link href="/authors/gail-alvares/index.xml" rel="self" type="application/rss+xml" />
     <description>Gail Alvares</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2020</copyright><lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2021</copyright><lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Gail Alvares</title>
@@ -13,20 +13,30 @@
     </image>
     
     <item>
-      <title>A broad autism phenotype expressed in facial morphology</title>
-      <link>/publication/10-tan-2020-tp/</link>
-      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/10-tan-2020-tp/</guid>
+      <title>Investigating associations between birth order and autism diagnostic phenotypes</title>
+      <link>/publication/12-alvares-2020-jcpp/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/12-alvares-2020-jcpp/</guid>
       <description>&lt;p&gt;==&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A preliminary investigation of the effects of prenatal alcohol exposure on facial morphology in children with Autism Spectrum Disorder</title>
-      <link>/publication/08-tan-preprint/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/08-tan-preprint/</guid>
-      <description></description>
+      <link>/publication/10-tan-2020-alcohol/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/10-tan-2020-alcohol/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A broad autism phenotype expressed in facial morphology</title>
+      <link>/publication/09-tan-2020-tp/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/09-tan-2020-tp/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -43,6 +53,15 @@
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <guid>/publication/05-boutrus-2017-aur/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Increased facial asymmetry in autism spectrum conditions is associated with symptom presentation</title>
+      <link>/publication/11-boutrus-2020-jadd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/11-boutrus-2020-jadd/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
     </item>
     
   </channel>

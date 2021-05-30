@@ -5,7 +5,7 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Diana Tan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2020</copyright><lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2021</copyright><lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Dr. Diana Tan</title>
@@ -13,27 +13,46 @@
     </image>
     
     <item>
+      <title>Investigating associations between birth order and autism diagnostic phenotypes</title>
+      <link>/publication/12-alvares-2020-jcpp/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/12-alvares-2020-jcpp/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A preliminary investigation of the effects of prenatal alcohol exposure on facial morphology in children with Autism Spectrum Disorder</title>
+      <link>/publication/10-tan-2020-alcohol/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/10-tan-2020-alcohol/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Objective Voice Gender Scoring System and Identification of the Salient Acoustic Measures</title>
+      <link>/publication/13-chen-2020-interspeech/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/13-chen-2020-interspeech/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A broad autism phenotype expressed in facial morphology</title>
-      <link>/publication/10-tan-2020-tp/</link>
+      <link>/publication/09-tan-2020-tp/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/10-tan-2020-tp/</guid>
+      <guid>/publication/09-tan-2020-tp/</guid>
       <description>&lt;p&gt;==&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sex-specific variation in facial masculinity/femininity associated with autistic traits in the general population</title>
-      <link>/publication/09-tan-2020-bjp/</link>
+      <link>/publication/08-tan-2020-bjp/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/09-tan-2020-bjp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A preliminary investigation of the effects of prenatal alcohol exposure on facial morphology in children with Autism Spectrum Disorder</title>
-      <link>/publication/08-tan-preprint/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/08-tan-preprint/</guid>
+      <guid>/publication/08-tan-2020-bjp/</guid>
       <description></description>
     </item>
     
@@ -91,6 +110,33 @@
       <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
       <guid>/publication/01-tan-2015-plos/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Animation, Theory of Mind and Humanoid Robots: Creating a Social Robot Video Task</title>
+      <link>/publication/14-oreilly-2020-leonardo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/14-oreilly-2020-leonardo/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Increased facial asymmetry in autism spectrum conditions is associated with symptom presentation</title>
+      <link>/publication/11-boutrus-2020-jadd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/11-boutrus-2020-jadd/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Validation of a Novel Theory of Mind Measurement Tool: The Social Robot Video Task</title>
+      <link>/publication/15-oreilly-2021-hri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/15-oreilly-2021-hri/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
     </item>
     
   </channel>

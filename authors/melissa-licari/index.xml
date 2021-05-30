@@ -5,7 +5,7 @@
     <link>/authors/melissa-licari/</link>
       <atom:link href="/authors/melissa-licari/index.xml" rel="self" type="application/rss+xml" />
     <description>Melissa Licari</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2021</copyright><lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Melissa Licari</title>
@@ -13,11 +13,21 @@
     </image>
     
     <item>
+      <title>Investigating associations between birth order and autism diagnostic phenotypes</title>
+      <link>/publication/12-alvares-2020-jcpp/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/12-alvares-2020-jcpp/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A preliminary investigation of the effects of prenatal alcohol exposure on facial morphology in children with Autism Spectrum Disorder</title>
-      <link>/publication/08-tan-preprint/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/08-tan-preprint/</guid>
-      <description></description>
+      <link>/publication/10-tan-2020-alcohol/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/10-tan-2020-alcohol/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
     </item>
     
   </channel>

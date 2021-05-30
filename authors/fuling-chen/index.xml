@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fuling Chen | Dr. Diana Tan</title>
+    <link>/authors/fuling-chen/</link>
+      <atom:link href="/authors/fuling-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fuling Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2021</copyright><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Fuling Chen</title>
+      <link>/authors/fuling-chen/</link>
+    </image>
+    
+    <item>
+      <title>An Objective Voice Gender Scoring System and Identification of the Salient Acoustic Measures</title>
+      <link>/publication/13-chen-2020-interspeech/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/13-chen-2020-interspeech/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
