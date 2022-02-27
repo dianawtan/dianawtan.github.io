@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Murray T Maybery | Dr. Diana Tan</title>
+    <link>/authors/murray-t-maybery/</link>
+      <atom:link href="/authors/murray-t-maybery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Murray T Maybery</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2022</copyright><lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Murray T Maybery</title>
+      <link>/authors/murray-t-maybery/</link>
+    </image>
+    
+    <item>
+      <title>An investigation of a novel broad autism phenotype: Increased facial masculinity among parents of children on the autism spectrum</title>
+      <link>/publication/17-tan-2022-procb/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/17-tan-2022-procb/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Facial asymmetry in parents of children on the autism spectrum</title>
+      <link>/publication/15-tan-2021-aur/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/15-tan-2021-aur/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

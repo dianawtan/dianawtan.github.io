@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Diana Tan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2021</copyright><lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Diana W. Tan © 2022</copyright><lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Dr. Diana Tan</title>
@@ -13,10 +13,37 @@
     </image>
     
     <item>
+      <title>An investigation of a novel broad autism phenotype: Increased facial masculinity among parents of children on the autism spectrum</title>
+      <link>/publication/17-tan-2022-procb/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/17-tan-2022-procb/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Animation, Theory of Mind and Humanoid Robots: Creating a Social Robot Video Task</title>
+      <link>/publication/16-oreilly-2022-leonardo/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/16-oreilly-2022-leonardo/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Facial asymmetry in parents of children on the autism spectrum</title>
+      <link>/publication/15-tan-2021-aur/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/15-tan-2021-aur/</guid>
+      <description>&lt;p&gt;==&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Validation of a Novel Theory of Mind Measurement Tool: The Social Robot Video Task</title>
-      <link>/publication/15-oreilly-2021-hri/</link>
+      <link>/publication/14-oreilly-2021-hri/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/15-oreilly-2021-hri/</guid>
+      <guid>/publication/14-oreilly-2021-hri/</guid>
       <description>&lt;p&gt;==&lt;/p&gt;
 </description>
     </item>
