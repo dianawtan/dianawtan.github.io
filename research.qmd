@@ -1,0 +1,58 @@
+---
+title: "Research"
+---
+
+My research spans three interconnected areas: the experiences of Autistic people with stigma and social marginalisation; inclusion of neurodivergent students and staff in higher education; and the theory and practice of participatory autism research. Below are my current and recently completed projects.
+
+<div class="project-card">
+
+## A Sense of Belonging: Neurodivergent Students in Australian Universities
+
+<div class="project-meta">
+<span class="badge badge-status-active">Conceptualisation stage</span>
+<span class="badge badge-funder">Australian Research Council (DECRA)</span>
+</div>
+
+Belonging is a fundamental human need — and in higher education, it shapes whether students stay, thrive, and succeed. Yet neurodivergent students frequently feel unwelcome in university environments, with profound consequences for their academic trajectories and wellbeing.
+
+This project develops a novel theoretical framework grounded in the everyday experiences of neurodivergent students in Australia, identifying the factors that underpin — or undermine — their sense of university belonging. The framework will be translated into a practical guideline offering universities cost-effective, evidence-based strategies to better support neurodivergent students.
+
+The need is urgent: the Australian Universities Accord anticipates a 60% increase in graduates from equity groups — including neurodivergent people — in the coming years. This project aims to equip universities to meet that demand, with benefits extending to the broader student population.
+
+</div>
+
+<div class="project-card">
+
+## The Neuroinclusion Project
+
+<div class="project-meta">
+<span class="badge badge-status-dissemination">Dissemination stage</span>
+<span class="badge badge-funder">Macquarie University Research Fellowship (2022–2026)</span>
+</div>
+
+The Neuroinclusion Project is a suite of research and resources dedicated to creating more inclusive futures for neurodivergent people. Our work is grounded in the lived experiences of neurodivergent people, combined with rigorous research methods, to create real impact.
+
+Originally envisaged as an experimental research study, the project has since evolved into something more dynamic and creative, shaped by the many people involved at Macquarie and beyond. At its heart, this is a research project — but one with a lot of fun woven through it.
+
+<a href="https://theneuroinclusionproject.com/" class="project-link" target="_blank">Visit the Neuroinclusion Project →</a>
+
+</div>
+
+<div class="project-card">
+
+## Participatory Autism Research: A Systematic Review
+
+<div class="project-meta">
+<span class="badge badge-status-dissemination">Dissemination stage</span>
+<span class="badge badge-funder">Australian Research Council</span>
+</div>
+
+This project examines the nature and extent of participatory approaches in autism research, and the degree to which participatory practices are transparently reported in the published literature. Drawing on a comprehensive systematic review of 382 articles published between 2001 and 2023, the project offers the most detailed picture to date of how — and how meaningfully — Autistic community members have been involved in autism research.
+
+<a href="https://dianatan.net/sys-rev-par/" class="project-link" target="_blank">Explore the interactive dataset dashboard →</a>
+
+</div>
+
+---
+
+*Interested in collaborating or joining the team? [Get in touch](mailto:diana.tan@latrobe.edu.au).*

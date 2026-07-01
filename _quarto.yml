@@ -11,9 +11,15 @@ website:
         text: Home
       - href: publications.qmd
         text: Publications
+      - href: research.qmd
+        text: Research
+      - href: people.qmd
+        text: People
+      - href: talks.qmd
+        text: Talks
       - href: cv.qmd
         text: CV
-right:
+    right:
       - icon: github
         href: https://github.com/dianawtan
       - icon: mortarboard-fill

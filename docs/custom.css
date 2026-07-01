@@ -123,3 +123,56 @@ a:hover { color: var(--accent-light); text-decoration: underline; }
   .bio-photo img { width: 130px; }
   
 }
+
+/* ── Research cards ── */
+.project-card {
+  border-left: 4px solid var(--accent);
+  background: var(--bg-panel);
+  border-radius: 0 8px 8px 0;
+  padding: 20px 24px;
+  margin-bottom: 28px;
+}
+.project-card h2 {
+  border-bottom: none;
+  margin-top: 0;
+  font-size: 1.15rem;
+  color: var(--accent-light);
+}
+.project-meta {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 8px 0 14px;
+}
+.badge {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.75rem;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-weight: 500;
+}
+.badge-status-active {
+  background: #2a4a2a;
+  color: #7ecf7e;
+  border: 1px solid #4a8a4a;
+}
+.badge-status-dissemination {
+  background: #2a3a4a;
+  color: #7eb8cf;
+  border: 1px solid #4a7a8a;
+}
+.badge-funder {
+  background: #2e2a3e;
+  color: var(--accent-light);
+  border: 1px solid var(--accent-dark);
+}
+.project-card p {
+  font-size: 0.9rem;
+  
+/* ── Force navbar links to show ── */
+.navbar-collapse {
+  display: flex !important;
+}
+.navbar-nav {
+  flex-direction: row !important;
+}
