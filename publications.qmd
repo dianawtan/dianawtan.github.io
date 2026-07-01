@@ -1,0 +1,60 @@
+---
+title: "Publications"
+---
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+#| results: asis
+
+library(scholar)
+library(glue)
+library(tidyverse)
+
+pubs <- get_publications("zTvxhfps61QC") |>
+  arrange(desc(year)) |>
+  filter(!is.na(year))
+
+manual_pdfs <- tribble(
+  ~title_match, ~pdf_url,
+  # "keyword from title", "pdfs/filename.pdf",
+)
+
+for (i in seq_len(nrow(pubs))) {
+  p <- pubs[i, ]
+
+  
+  # PDF link
+  pdf_link <- ""
+  if (nrow(manual_pdfs) > 0) {
+    match <- manual_pdfs |>
+      filter(str_detect(tolower(p$title), tolower(title_match)))
+    if (nrow(match) > 0) {
+      pdf_link <- glue('<a href="{match$pdf_url[1]}" target="_blank">PDF</a>')
+    }
+  }
+  
+  # Scholar link
+  scholar_link <- glue('<a href="https://scholar.google.com/scholar?q={URLencode(p$title)}" target="_blank">Google Scholar</a>')
+  
+  # DOI link
+  doi_link <- ""
+  doi_val <- tryCatch(as.character(p$doi), error = function(e) "")
+  if (length(doi_val) == 1 && !is.na(doi_val) && doi_val != "NA" && nchar(doi_val) > 0) {
+    doi_link <- glue('<a href="https://doi.org/{doi_val}" target="_blank">DOI</a>')
+  }
+  
+  
+  links <- paste(c(pdf_link, doi_link, scholar_link), collapse = " ")
+  
+  cat(glue('
+<div class="pub-entry">
+<div class="pub-title">{p$title}</div>
+<div class="pub-authors">{p$author}</div>
+<div class="pub-journal">{p$journal} ({p$year})</div>
+<div class="pub-links">{links}</div>
+</div>
+'))
+}
+```
