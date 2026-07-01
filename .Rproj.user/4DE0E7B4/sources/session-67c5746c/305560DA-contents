@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dr. Diana Tan"
+  navbar:
+    background: dark
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+right:
+      - icon: github
+        href: https://github.com/dianawtan
+      - icon: mortarboard-fill
+        href: https://scholar.google.com.au/citations?user=zTvxhfps61QC
+      - text: "ORCID"
+        href: https://orcid.org/0000-0002-6394-8435
+
+format:
+  html:
+    theme: darkly
+    css: custom.css
+    toc: false
+    link-external-newwindow: true

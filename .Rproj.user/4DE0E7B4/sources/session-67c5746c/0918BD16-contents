@@ -1,0 +1,113 @@
+/* ── Colour tokens ── */
+:root {
+  --accent:       #b39ddb;
+  --accent-dark:  #7e57c2;
+  --accent-light: #d1c4e9;
+  --bg:           #12111a;
+  --bg-panel:     #1e1b2e;
+  --text:         #ede9f5;
+  --text-muted:   #b0a8c8;
+}
+
+/* ── Base ── */
+body {
+  font-family: 'Georgia', serif;
+  color: var(--text);
+  background-color: var(--bg);
+}
+
+/* ── Navbar links ── */
+.navbar-nav .nav-link {
+  color: #d4c45a !important;
+}
+.navbar-nav .nav-link:hover {
+  color: #e8d87a !important;
+}
+
+/* ── Headings ── */
+h1, h2, h3 {
+  font-family: 'Georgia', serif;
+  color: var(--accent-light);
+}
+h1 { font-size: 2rem; margin-bottom: 0.25rem; }
+h2 { font-size: 1.4rem; border-bottom: 1px solid var(--accent-dark); padding-bottom: 4px; margin-top: 2rem; }
+
+/* ── Links ── */
+a { color: var(--accent); }
+a:hover { color: var(--accent-light); text-decoration: underline; }
+
+/* ── Publication entries ── */
+.pub-entry {
+  border-left: 3px solid var(--accent);
+  padding: 10px 14px;
+  margin-bottom: 18px;
+  background: var(--bg-panel);
+  border-radius: 0 6px 6px 0;
+}
+.pub-title {
+  font-weight: 600;
+  color: var(--accent-light);
+  font-size: 0.95rem;
+}
+.pub-authors {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin: 2px 0;
+}
+.pub-journal {
+  font-size: 0.82rem;
+  font-style: italic;
+  color: var(--text-muted);
+}
+.pub-links {
+  margin-top: 6px;
+  font-size: 0.8rem;
+}
+.pub-links a {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 2px 8px;
+  border: 1px solid var(--accent);
+  border-radius: 4px;
+  color: var(--accent);
+  text-decoration: none;
+}
+.pub-links a:hover {
+  background: var(--accent);
+  color: #1a1a2e;
+}
+
+/* ── Bio section ── */
+.bio-container {
+  display: flex;
+  gap: 32px;
+  align-items: flex-start;
+  margin-top: 1.5rem;
+  flex-wrap: wrap;
+}
+.bio-photo img {
+  width: 180px;
+  border-radius: 50%;
+  border: 3px solid var(--accent);
+}
+.bio-text { flex: 1; min-width: 260px; }
+.bio-links { margin-top: 14px; display: flex; gap: 10px; flex-wrap: wrap; }
+.bio-links a {
+  padding: 5px 14px;
+  border: 1px solid var(--accent);
+  border-radius: 20px;
+  font-family: Arial, sans-serif;
+  font-size: 0.82rem;
+  color: var(--accent);
+  text-decoration: none;
+}
+.bio-links a:hover { background: var(--accent); color: #1a1a2e; }
+
+/* ── Footer ── */
+.nav-footer { border-top: 1px solid var(--accent-dark); color: var(--text-muted); font-size: 0.8rem; }
+
+/* ── Responsive ── */
+@media (max-width: 600px) {
+  .bio-container { flex-direction: column; }
+  .bio-photo img { width: 130px; }
+}
