@@ -14,7 +14,7 @@ color: var(--accent); text-decoration: none; font-family: Arial, sans-serif; fon
 
 **ARC DECRA Fellow & Senior Research Fellow**  
 Olga Tennison Autism Research Centre, La Trobe University  
-*2024 – present*
+*2026 – present*
 
 ## Education
 
@@ -25,7 +25,7 @@ University of Western Australia, 2018
 
 - Stigma and social marginalisation of Autistic people
 - Inclusion of neurodivergent students and staff in higher education
-- Participatory autism research methodology
+- Participatory approaches in autism research
 
 ## Selected Roles
 
