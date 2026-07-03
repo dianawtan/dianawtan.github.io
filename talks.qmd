@@ -1,0 +1,6 @@
+writeLines('---
+title: "Talks"
+---
+
+Coming soon.
+', "talks.qmd")
